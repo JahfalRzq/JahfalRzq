@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JahfalRzq
-- 👀 I’m interested in Backend Developer
+- 👀 I’m interested in Blockchain Developer
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
