@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<img src="Banner.png" alt="GitHub Banner" width="100%" />
+
+<h2 align="left">Hello World 👋! My name is Jahfal Rizqi and I'm a Software Developer, from Indonesia</h2>
 
 ###
 
