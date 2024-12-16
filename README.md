@@ -61,13 +61,16 @@
   <img src="https://github.com/user-attachments/assets/eb979871-1d57-4ea7-b8af-bfb1165a2979" height="40" alt="Ethereum logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/4ebe4430-a141-4fc5-9ddd-dc5b439177b6" height="40" alt="Metamask logo"  />
-  
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" alt="mocha logo"  />
 
 </div>
 
 ###
 
-###
+
 # Lets Connect :
 <div align="left">
   <a href="https://www.linkedin.com/in/jahfal-rizqi-putra-pradhana/" target="_blank">
