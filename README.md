@@ -8,6 +8,12 @@
 
 ###
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JahfalRzq&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JahfalRzq&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JahfalRzq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 ###
 # 💻 Tech Stack:
@@ -76,3 +82,7 @@
 </div>
 
 ###
+
+
+[![](https://visitcount.itsvg.in/api?id=JahfalRzq&icon=0&color=0)](https://visitcount.itsvg.in)
+
