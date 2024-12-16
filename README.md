@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JahfalRzq
+- 👋 Hi, I’m Jahfal Rizqi
 - 👀 I’m interested in Blockchain Developer
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on ...
